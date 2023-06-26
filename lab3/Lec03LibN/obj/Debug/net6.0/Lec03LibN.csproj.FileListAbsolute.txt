@@ -1,0 +1,12 @@
+D:\PP_4sem\lab3\Lec03LibN\bin\Debug\net6.0\Lec03LibN.deps.json
+D:\PP_4sem\lab3\Lec03LibN\bin\Debug\net6.0\Lec03LibN.dll
+D:\PP_4sem\lab3\Lec03LibN\bin\Debug\net6.0\Lec03LibN.pdb
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\Lec03LibN.csproj.AssemblyReference.cache
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\Lec03LibN.AssemblyInfoInputs.cache
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\Lec03LibN.AssemblyInfo.cs
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\Lec03LibN.csproj.CoreCompileInputs.cache
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\Lec03LibN.dll
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\refint\Lec03LibN.dll
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\Lec03LibN.pdb
+D:\PP_4sem\lab3\Lec03LibN\obj\Debug\net6.0\ref\Lec03LibN.dll
